@@ -1,4 +1,6 @@
 How to install
-1. Open CMD in repo folder
-2. type pip install -r requirements.txt
-3. python somefile.py
+1. run terminal in repo folder or
+  - run terminal
+  - cd \repo\folder\path
+3. type pip install -r requirements.txt
+4. python somefile.py
